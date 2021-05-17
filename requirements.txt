@@ -46,4 +46,4 @@ wordcloud==1.8.1
 nltk==3.5
 xgboost==1.1.1
 gunicorn==20.1.0
-./en_core_web_sm-2.2.0.zip
+./en_core_web_sm-2.2.0
