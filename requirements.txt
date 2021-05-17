@@ -8,7 +8,7 @@ xgboost==1.1.1
 gensim==3.8.3
 spacy==3.0.5
 wordcloud==1.8.1
-imblearn==0.8.0
+imbalanced-learn==0.8.0
 flask==1.1.2
 
 
