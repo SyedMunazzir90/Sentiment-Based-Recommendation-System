@@ -1,9 +1,6 @@
-import numpy as np
 import pandas as pd
 import pickle
-from sklearn.model_selection import train_test_split
-from flask import Flask, request, jsonify, render_template
-from sklearn.metrics.pairwise import pairwise_distances
+from flask import Flask, request, render_template
 
 app = Flask(__name__)
 
