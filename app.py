@@ -4,10 +4,6 @@ import pickle
 from sklearn.model_selection import train_test_split
 from flask import Flask, request, jsonify, render_template
 from sklearn.metrics.pairwise import pairwise_distances
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-import spacy
-en_core = spacy.load('en_core_web_sm') 
 
 app = Flask(__name__)
 
