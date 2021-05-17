@@ -32,8 +32,6 @@ scipy==1.6.3
 seaborn==0.11.0
 six==1.16.0
 smart-open==3.0.0
-spacy==3.0.5
-spacy-legacy==3.0.5
 srsly==2.4.1
 thinc==8.0.3
 threadpoolctl==2.1.0
@@ -46,4 +44,3 @@ wordcloud==1.8.1
 nltk==3.5
 xgboost==1.1.1
 gunicorn==20.1.0
-./en_core_web_sm-2.2.0
